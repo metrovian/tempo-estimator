@@ -1,6 +1,5 @@
 project(
   'tempo-estimator',
-  'cpp', 
   'c',
   version: '1.0.0',
   default_options: [
